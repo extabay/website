@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://extabay.github.io/website/"
+baseURL = "https://jardinextabay.github.io/website/"
 languageCode = "es-ES"
 title = 'Jardín Extabay'
 theme = "hugo-split-theme"
