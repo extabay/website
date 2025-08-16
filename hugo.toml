@@ -13,6 +13,11 @@ uglyURLs = true
 # Copyright
 copyright = "&copy;2025 Jardín Extabay"
 
+# Required to publish in GitHub Pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [services]
   [services.googleAnalytics]
     # Enter your tracking code to enable Google Analytics
