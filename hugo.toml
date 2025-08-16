@@ -88,18 +88,18 @@ copyright = "&copy;2025 Jardín Extabay"
       heading = "Contacto"
 
       [[params.links.list1.link]]
-        text = "💬 WhatsApp"
+        text = "WhatsApp"
         url = "https://wa.me/521333123456"
         new_tab = true
 
       [[params.links.list1.link]]
-        text = "✉️ jardinextabay@gmail.com"
-        url = "mailto:jardinextabay@gmail.com"
+        text = "info@jardinextabay.com"
+        url = "mailto:info@jardinextabay.com"
         new_tab = true
 
       [[params.links.list1.link]]
-        text = "📞 +52 (1) 333 123456"
-        url = "tel:+35635777488"
+        text = "33 1234 5678"
+        url = "tel:+523312345678"
         new_tab = true
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
