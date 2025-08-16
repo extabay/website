@@ -62,15 +62,15 @@ copyright = "&copy;2025 Jardín Extabay"
 
       [[params.links.list3.link]]
         text = "Reuniones"
-        url = "es/servicios/reuniones.html"
+        url = "reuniones.html"
 
       [[params.links.list3.link]]
         text = "Celebraciones"
-        url = "es/servicios/celebraciones.html"
+        url = "celebraciones.html"
 
       [[params.links.list3.link]]
         text = "Otros"
-        url = "es/servicios/otros.html"
+        url = "otros.html"
 
   [[params.links]]
     [params.links.list2]
