@@ -1,10 +1,10 @@
 +++
-title = 'Otros'
-date = 2025-08-16T12:55:06+02:00
+title = 'Instalaciones'
+date = 2025-08-16T17:45:33+02:00
 draft = false
 +++
 
-Pronto te contaremos de qué otras formas puedes utilizar nuestro jardín.
+Pronto te contaremos qué instalaciones podrás disfrutar en nuestro jardín.
 
 ![Carpa](/images/otros.jpeg)
 

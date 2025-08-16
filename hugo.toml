@@ -61,16 +61,8 @@ copyright = "&copy;2025 Jardín Extabay"
       heading = "Servicios"
 
       [[params.links.list3.link]]
-        text = "Reuniones"
-        url = "reuniones.html"
-
-      [[params.links.list3.link]]
-        text = "Celebraciones"
-        url = "celebraciones.html"
-
-      [[params.links.list3.link]]
-        text = "Otros"
-        url = "otros.html"
+        text = "Galería"
+        url = "galeria.html"
 
   [[params.links]]
     [params.links.list2]
@@ -79,30 +71,36 @@ copyright = "&copy;2025 Jardín Extabay"
       [[params.links.list2.link]]
         text = "Facebook"
         url = "https://www.facebook.com/profile.php?id=61579638446112"
-        new_tab = true # new tab
+        new_tab = true
 
       [[params.links.list2.link]]
         text = "Instagram"
         url = "https://www.instagram.com/jardinextabay/"
-        new_tab = true # new tab
+        new_tab = true
 
       [[params.links.list2.link]]
         text = "TikTok"
         url = "https://www.tiktok.com/@jardinextabay"
-        new_tab = true # new tab
+        new_tab = true
 
   [[params.links]]
     [params.links.list1]
       heading = "Contacto"
 
       [[params.links.list1.link]]
-        text = "jardinextabay@gmail.com"
-        url = "email:jardinextabay@gmail.com"
-        new_tab = false # Default, open at same tab
+        text = "💬 WhatsApp"
+        url = "https://wa.me/521333123456"
+        new_tab = true
 
       [[params.links.list1.link]]
-        text = "+52 (1) 333 123456"
+        text = "✉️ jardinextabay@gmail.com"
+        url = "mailto:jardinextabay@gmail.com"
+        new_tab = true
+
+      [[params.links.list1.link]]
+        text = "📞 +52 (1) 333 123456"
         url = "tel:+35635777488"
+        new_tab = true
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
