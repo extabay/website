@@ -1,7 +1,7 @@
 +++
 title = 'Celebraciones'
 date = 2025-08-16T12:54:58+02:00
-draft = true
+draft = false
 +++
 
 Pronto te contaremos cómo puedes hacer tus celebraciones en nuestro jardín.
